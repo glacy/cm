@@ -18,6 +18,6 @@ Gráficas y ecuaciones de la posición en función del tiempo y de la velocidad 
 
 ## Centro de masa
 ### Molécula de amonio
-:link: [enlace](https://glacy.github.io/MRUA/)
+:link: [enlace](https://glacy.github.io/cm/)
 Visualización interactiva de la representación gráfica de una molécula de amonio:
 - :video_game: Asymptote
